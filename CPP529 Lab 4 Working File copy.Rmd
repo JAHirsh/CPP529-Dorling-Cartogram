@@ -255,6 +255,10 @@ geojson_write( orl_dorling, file="orl_dorling.geojson", geometry="polygon" )
 
 
 ```
+# Load file
+
+
+
 
 
 ```{r}
